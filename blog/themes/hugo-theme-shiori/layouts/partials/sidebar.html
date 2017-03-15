@@ -1,13 +1,13 @@
 
-{{ if or .Site.Params.gravatar_id .Site.Params.author_name  }}
+{{ if .Site.Params.author_name  }}
 <h3>
   Author
 </h3>
 
 <p>
   <div class="media">
-    {{ if .Site.Params.gravatar_id }}
-    <img src="http://www.gravatar.com/avatar/{{ .Site.Params.gravatar_id }}?s=100" alt="{{ .Site.Params.author_name }}" class="pull-left">
+    {{ if .Site.Params.twitter_username }}
+    <img src="https://twitter.com/{{ .Site.Params.twitter_username }}/profile_image?size=bigger" alt="{{ .Site.Params.author_name }}" class="pull-left">
     {{ end }}
     {{ if .Site.Params.author_name }}
     <div class="media-body">
