@@ -21,7 +21,7 @@ function execute() {
     foreach ($config['endpoints'] as $endpoint) {
         passthru($endpoint['run']);
     }
-    $output = ob_end_contents();
+    $output = ob_get_contents();
     return $output;
 }
 function run() {
@@ -45,7 +45,7 @@ function run() {
                 // execute update script, and record its output
                 ob_start();
                 passthru($endpoint['run']);
-                $output = ob_end_contents();
+                $output = ob_get_contents();
                 // prepare and send the notification email
                 if (isset($config['email'])) {
                     // send mail to someone, and the github user who pushed the commit
