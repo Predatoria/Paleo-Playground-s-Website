@@ -1,3 +1,11 @@
-title = "My New Hugo Site"
-baseURL = "http://example.org/"
+title = "Dev Blog - Paleo Playground"
+baseURL = "http://firewalrus.com/paleo/devblog/"
 languageCode = "en-us"
+theme = "hugo-theme-shiori"
+
+author = "Matthew Weiss"
+
+[params]
+    author_name = "Matthew Weiss"
+    twitter_username = "chibicode"
+    gravatar_id = "d747ad92018acd87a77899704fc6693d"

@@ -22,4 +22,4 @@ rm -r public
 hugo
 
 # Create a symlink for blog
-ln -s /var/www/paleo/blog/public /var/www/paleo/blog
+ln -s /var/www/paleo/blog/public /var/www/paleo/devblog
