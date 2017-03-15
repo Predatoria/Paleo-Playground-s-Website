@@ -82,7 +82,7 @@ function run() {
     }
 }
 try {
-    if(isset($_REQUEST['force'])) {
+    if(!isset($_REQUEST['verify'])) {
         execute();
     } else if (!isset($_POST['payload'])) {
         echo "Works fine.";
