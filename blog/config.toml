@@ -2,8 +2,8 @@ title = "Dev Blog - Paleo Playground"
 baseURL = "http://firewalrus.com/paleo/devblog/"
 languageCode = "en-us"
 theme = "hugo-theme-shiori"
-
 author = "Matthew Weiss"
+CanonifyUrls=true
 
 [params]
     author_name = "Matthew Weiss"
