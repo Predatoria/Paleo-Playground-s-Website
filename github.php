@@ -43,7 +43,7 @@ function run() {
     if (verify_signature($payload)) {
         foreach ($config['endpoints'] as $endpoint) {
             // check if the push came from the right repository and branch
-            if ($payload->repository->url == 'https://github.com/' . $endpoint['repo']
+            if ($payload->repository->full_name == $endpoint['repo']
                 && $payload->ref == 'refs/heads/' . $endpoint['branch']) {
                 // execute update script, and record its output
                 ob_start();
