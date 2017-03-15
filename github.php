@@ -22,7 +22,7 @@ function execute() {
         passthru($endpoint['run']);
     }
     $output = ob_end_contents();
-    return $output
+    return $output;
 }
 function run() {
     global $config;
