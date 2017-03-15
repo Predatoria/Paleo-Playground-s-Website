@@ -14,7 +14,7 @@ rm -r public
 hugo
 
 # Create symlink for public
-ln -s /var/www/paleo/main/public/ /var/www/paleo/playground/
+ln -s /var/www/paleo/playground /var/www/paleo/main/public
 
 # Now, rebuild the files for blog site
 cd /var/www/paleo/blog/
@@ -22,4 +22,4 @@ rm -r public
 hugo
 
 # Create a symlink for blog
-ln -s /var/www/paleo/blog/public/ /var/www/paleo/blog/
+ln -s /var/www/paleo/blog /var/www/paleo/blog/public
