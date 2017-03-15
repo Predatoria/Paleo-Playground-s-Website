@@ -9,14 +9,24 @@
 // script errors will be send to this email:
 $error_mail = "knvjones@gmail.com";
 
-function run() {
-    global $rawInput;
-    // read config.json
-    $config_filename = 'config.json';
-    if (!file_exists($config_filename)) {
-        throw new Exception("Can't find ".$config_filename);
+// read config.json
+$config_filename = 'config.json';
+if (!file_exists($config_filename)) {
+    throw new Exception("Can't find ".$config_filename);
+}
+$config = json_decode(file_get_contents($config_filename), true);
+
+function execute() {
+    ob_start();
+    foreach ($config['endpoints'] as $endpoint) {
+        passthru($endpoint['run']);
     }
-    $config = json_decode(file_get_contents($config_filename), true);
+    $output = ob_end_contents();
+    return $output
+}
+function run() {
+    global $config;
+
     $postBody = $_POST['payload'];
     $payload = json_decode($postBody);
     if (isset($config['email'])) {
@@ -70,6 +80,8 @@ function run() {
 try {
     if (!isset($_POST['payload'])) {
         echo "Works fine.";
+    } else if(isset($_REQUEST['force'])) {
+        echo execute();
     } else {
         run();
     }
