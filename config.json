@@ -1,0 +1,14 @@
+{
+    "email": {
+        "from": "github-hook@paleoplayground.com",
+        "to": "knvjones@gmail.com"
+    },
+    "endpoints": [
+        {
+            "repo": "user/repository",
+            "branch": "master",
+            "action": "Code has been pulled to the server from github.",
+            "run": "/var/www/paleo/github-pull.sh"
+        }
+    ]
+}
