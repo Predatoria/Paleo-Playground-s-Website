@@ -5,7 +5,7 @@
     },
     "endpoints": [
         {
-            "repo": "user/repository",
+            "repo": "Predatoria/Paleo-Playground-s-Website",
             "branch": "master",
             "action": "Code has been pulled to the server from github.",
             "run": "/var/www/paleo/github-pull.sh"
