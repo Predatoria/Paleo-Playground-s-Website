@@ -4,6 +4,7 @@
  *
  * see: https://help.github.com/articles/post-receive-hooks
  * @source https://gist.github.com/gka/4627519
+ * modified by Kenny Jones
  *
  */
 // script errors will be send to this email:
