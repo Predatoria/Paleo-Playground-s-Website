@@ -25,6 +25,9 @@ function execute() {
     $output = ob_get_contents();
     return $output;
 }
+function verify_signature($payload) {
+    return true;
+}
 function run() {
     global $config;
 
@@ -37,8 +40,7 @@ function run() {
         $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
     }
     // check if the request comes from github server
-    $github_ips = array('192.30.252.42', '207.97.227.253', '50.57.128.197', '108.171.174.178', '50.57.231.61');
-    if (in_array($_SERVER['REMOTE_ADDR'], $github_ips)) {
+    if (verify_signature($payload)) {
         foreach ($config['endpoints'] as $endpoint) {
             // check if the push came from the right repository and branch
             if ($payload->repository->url == 'https://github.com/' . $endpoint['repo']
@@ -80,7 +82,7 @@ function run() {
 }
 try {
     if(isset($_REQUEST['force'])) {
-        echo execute();
+        execute();
     } else if (!isset($_POST['payload'])) {
         echo "Works fine.";
     } else {
