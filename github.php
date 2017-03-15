@@ -26,6 +26,7 @@ function execute() {
     $output = ob_get_contents();
     return $output;
 }
+// TODO Add verification with secrets.
 function verify_signature($payload) {
     return true;
 }
