@@ -3,6 +3,7 @@
         "from": "github-hook@paleoplayground.com",
         "to": "knvjones@gmail.com"
     },
+    "secret": "velociraptor",
     "endpoints": [
         {
             "repo": "Predatoria/Paleo-Playground-s-Website",
