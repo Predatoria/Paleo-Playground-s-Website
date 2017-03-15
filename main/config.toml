@@ -1,4 +1,4 @@
-baseurl = "http://firewalrus.com/paleo/"
+baseurl = "http://firewalrus.com/paleo/playground/"
 languageCode = "en-us"
 title = "Paleo Playground"
 theme = "hugo-creative-theme"
