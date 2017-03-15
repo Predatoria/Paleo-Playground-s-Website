@@ -17,6 +17,7 @@ if (!file_exists($config_filename)) {
 $config = json_decode(file_get_contents($config_filename), true);
 
 function execute() {
+    global $config;
     ob_start();
     foreach ($config['endpoints'] as $endpoint) {
         passthru($endpoint['run']);
