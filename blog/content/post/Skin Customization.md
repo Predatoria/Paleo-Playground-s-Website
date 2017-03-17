@@ -11,7 +11,7 @@ We want players to be able to have a great degree of control over the skins they
 
 The UI for the skin customization system is now complete and here is a picture!  This is actually a skin created by That Thing specifically for use in our skin customization system.  A word of caution, however, is that in the future there will be many more options available to players than simply what is shown on this screenshot.  This system really is in its infancy, and we currently lack art assets to fully implement the complete selection of options that will be available at this time.
 
-![alt text](https://github.com/Predatoria/Paleo-Playground-s-Website/blog/content/post/SkinCustomizationImages/ExampleUI.png "")
+![alt text](https://github.com/Predatoria/Paleo-Playground-s-Website/blob/master/blog/content/post/SkinCustomizationImages/ExampleUI.png?raw=true "")
 
 There are three levels of abstraction in our skin design system that can be seen on the right.
 
