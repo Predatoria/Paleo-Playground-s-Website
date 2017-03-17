@@ -19,23 +19,23 @@ The first is that a player will be able to choose specific areas of their dinosa
 
 Each of these areas will further have selections of different patterns to choose from.  For example, a player can choose to use the default stock skins that came with the models and recolor them or have the option of choosing additional skins that are created specifically for this system.  Additional patterns could include stripes, spots, solid color gradients, or other variations.  Here are a few example concepts we have potentially in plan for velociraptor pattern choices, made by BananaBae.  One of these seven would be selected as a pattern choice.
 
-![alt text](https://firewalrus.com/paleo/devblog/post/SkinCustomizationImages/VelociraptorPattern1.png "")
-![alt text](https://firewalrus.com/paleo/devblog/post/SkinCustomizationImages/VelociraptorPattern2.png "")
-![alt text](https://firewalrus.com/paleo/devblog/post/SkinCustomizationImages/VelociraptorPattern3.png "")
-![alt text](https://firewalrus.com/paleo/devblog/post/SkinCustomizationImages/VelociraptorPattern4.png "")
-![alt text](https://firewalrus.com/paleo/devblog/post/SkinCustomizationImages/VelociraptorPattern5.png "")
-![alt text](https://firewalrus.com/paleo/devblog/post/SkinCustomizationImages/VelociraptorPattern6.png "")
-![alt text](https://firewalrus.com/paleo/devblog/post/SkinCustomizationImages/VelociraptorPattern7.png "")
+![alt text](https://github.com/Predatoria/Paleo-Playground-s-Website/blob/master/blog/content/post/SkinCustomizationImages/VelociraptorPattern1.png?raw=true "")
+![alt text](https://github.com/Predatoria/Paleo-Playground-s-Website/blob/master/blog/content/post/SkinCustomizationImages/VelociraptorPattern2.png?raw=true "")
+![alt text](https://github.com/Predatoria/Paleo-Playground-s-Website/blob/master/blog/content/post/SkinCustomizationImages/VelociraptorPattern3.png?raw=true "")
+![alt text](https://github.com/Predatoria/Paleo-Playground-s-Website/blob/master/blog/content/post/SkinCustomizationImages/VelociraptorPattern4.png?raw=true "")
+![alt text](https://github.com/Predatoria/Paleo-Playground-s-Website/blob/master/blog/content/post/SkinCustomizationImages/VelociraptorPattern5.png?raw=true "")
+![alt text](https://github.com/Predatoria/Paleo-Playground-s-Website/blob/master/blog/content/post/SkinCustomizationImages/VelociraptorPattern6.png?raw=true "")
+![alt text](https://github.com/Predatoria/Paleo-Playground-s-Website/blob/master/blog/content/post/SkinCustomizationImages/VelociraptorPattern7.png?raw=true "")
 
 Under each pattern are color choices that use the color picker.  These will recolor separate pieces of the pattern.  Adjustment of the alpha can also be done such that more or less of the underlying coloring can be seen.
 
 During our first Multiplayer test last Monday, March 12th, players seemed to very much enjoy this feature even in its early stages.  Here you can see several of us lining up for a little skin design contest we had.  The parasaurolophus seemed to be a popular dinosaur choice due to its stock skin being particularly conductive to fun recolors.
 
-![alt text](https://firewalrus.com/paleo/devblog/post/SkinCustomizationImages/SkinContest.png "")
+![alt text](https://github.com/Predatoria/Paleo-Playground-s-Website/blob/master/blog/content/post/SkinCustomizationImages/SkinContest.png?raw=true "")
 
 But this screenshot does beg another question to be brought up.  Just how much colorization and customization should we, as game designers, allow?  Currently, it is completely unchecked.  Some other games such as Skyrim do have significant customization options players can choose for their characters, but most games don’t let you have a neon green skin tone, and restrict such an option appropriately.  After all, we already have seen some crazy skins come up with this system.
 
-![alt text](https://firewalrus.com/paleo/devblog/post/SkinCustomizationImages/UglySkin.png "")
+![alt text](https://github.com/Predatoria/Paleo-Playground-s-Website/blob/master/blog/content/post/SkinCustomizationImages/UglySkin.png?raw=true "")
 
 So as a game designer, do I restrict the palate of colors to more natural variations?  If I wished to do so, by what means or algorithm would I decide what colors were acceptable and what colors were not?  It is much, much easier from my perspective to let a player have full control over the color choices than to try to restrict it in ways that disallows skins such as the one above on the left.  Do we even want to restrict it at all?  After all, taking away options from players can only serve to restrict what a player may want to do.
 
@@ -44,3 +44,7 @@ It really is a double-edged sword.  On one side, you have players who may be off
 One idea we do have for this system, however, that I hinted about earlier in this post is it serves as grounds for a cosmetic-based progression system.  One challenge with creating a survival game where players gain no power by surviving and have full choice of dinosaur selection from the beginning is keeping them interested in surviving at all.  If there is no reward for surviving in our ecosystem, why would players stress over finding food, water, or hunting to eat?  
 
 Here lies one of our solutions to both of these issues, the first being overtly bright skin recolors.  Eventually, players will not be able to spawn immediately with a parasaurolophus that has a brilliantly colored stripe along their lateral, or with a bright crest atop their head.  They won’t be able to have rich, red feathers as a velociraptor immediately.  These options will be earned by surviving, though it’s also quite likely that skins a player creates during a particularly long-lived life will also become a permanent, fixed skin they can choose in the future.  The topic of how we plan to create costs and cosmetic progression is a topic for another day, but I hope it gives a fun means by which players can try and survive and collect skins.
+
+Thanks for reading!  And if you're interested in following our development more closely, feel free to join our Discord!  
+
+https://discord.gg/xGJznn5
