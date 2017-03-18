@@ -38,6 +38,10 @@ CanonifyUrls=true
                 order = 1
                 href = "about/"
                 display = "About"
+            [params.navigation.links.faq]
+                order = 1
+                href = "faq/"
+                display = "FAQ"
             #[params.navigation.links.services]
             #    order = 2
             #    href = "#services"
