@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Paleo Playground"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
+CanonifyUrls=true
 
 [params]
 
@@ -35,7 +36,7 @@ googleAnalytics = ""
         
             [params.navigation.links.about]
                 order = 1
-                href = "#services"
+                href = "about/"
                 display = "About"
             #[params.navigation.links.services]
             #    order = 2
@@ -99,7 +100,7 @@ googleAnalytics = ""
 
         [params.services.button]
 			text = "Find out even more"
-			link = "http://steamcommunity.com/groups/PaleoPlayground"
+			link = "about/"
 
     # Portfolio modals
 	#[params.portfolio.modal]
@@ -123,6 +124,10 @@ googleAnalytics = ""
 		# phone = "123-456-6789"
         discord = "https://discord.gg/xGJznn5"
 		email = "team@paleoplayground.com"
+        
+    # The footer
+    [params.footer]
+        copyright = 2017
 
 	# Google Maps section
 	# [params.location]

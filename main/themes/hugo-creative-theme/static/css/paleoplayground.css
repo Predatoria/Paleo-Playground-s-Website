@@ -15,3 +15,20 @@
     -webkit-transition: border-left 2s, border-right 2s; /* Safari */
     transition: border-left 2s, border-right 2s;
 }
+
+/** Modifications to the header for subpages */
+.subpage {
+    min-height: 250px;
+    border-bottom: 3px solid rgb(240, 95, 64);
+}
+
+.subpage .header-content {
+    top: 80%;
+}
+
+/* Used for footer */
+.sm-primary {
+    background-color: #f05f40;
+    color: #fff;
+    padding: 15px 0;
+}

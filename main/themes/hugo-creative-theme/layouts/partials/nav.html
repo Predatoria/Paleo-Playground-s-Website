@@ -9,16 +9,17 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            {{ with .Site.Params.navigation.brand }}
-                <a class="navbar-brand page-scroll" href="#page-top">{{ . | markdownify }}</a>
+            {{ if .Site.Params.navigation.brand }}
+                <a class="navbar-brand page-scroll" href="{{ .Site.BaseURL }}#page-top">{{ .Site.Params.navigation.brand | markdownify }}</a>
             {{ end }}
         </div>
         {{ "<!-- Collect the nav links, forms, and other content for toggling -->" | safeHTML }}
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
+                {{ $ctx := . }}
                 {{ range sort .Site.Params.navigation.links "order" "asc" }}
                     <li>
-                        <a class="page-scroll" href="{{ .href }}">{{ .display }}</a>
+                        <a class="page-scroll" href="{{ $ctx.Site.BaseURL }}{{ .href }}">{{ .display }}</a>
                     </li>
                 {{ end }}
                 <!-- Divider for internal v. external -->
