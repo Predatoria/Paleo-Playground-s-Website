@@ -11,7 +11,7 @@ We want players to be able to have a great degree of control over the skins they
 
 The UI for the skin customization system is now complete and here is a picture!  This is actually a skin created by That Thing specifically for use in our skin customization system.  A word of caution, however, is that in the future there will be many more options available to players than simply what is shown on this screenshot.  This system really is in its infancy, and we currently lack art assets to fully implement the complete selection of options that will be available at this time.
 
-![alt text](https://github.com/Predatoria/Paleo-Playground-s-Website/blob/master/blog/content/post/SkinCustomizationImages/ExampleUI.png?raw=true "")
+![alt text](/images/SkinCustomizationImages/ExampleUI.png)
 
 There are three levels of abstraction in our skin design system that can be seen on the right.
 
@@ -19,23 +19,23 @@ The first is that a player will be able to choose specific areas of their dinosa
 
 Each of these areas will further have selections of different patterns to choose from.  For example, a player can choose to use the default stock skins that came with the models and recolor them or have the option of choosing additional skins that are created specifically for this system.  Additional patterns could include stripes, spots, solid color gradients, or other variations.  Here are a few example concepts we have potentially in plan for velociraptor pattern choices, made by BananaBae.  One of these seven would be selected as a pattern choice.
 
-<img src="https://github.com/Predatoria/Paleo-Playground-s-Website/blob/master/blog/content/post/SkinCustomizationImages/VelociPattern1.png?raw=true" width=200> 
-<img src="https://github.com/Predatoria/Paleo-Playground-s-Website/blob/master/blog/content/post/SkinCustomizationImages/VelociPattern2.png?raw=true" width=200>
-<img src="https://github.com/Predatoria/Paleo-Playground-s-Website/blob/master/blog/content/post/SkinCustomizationImages/VelociPattern3.png?raw=true" width=200>
-<img src="https://github.com/Predatoria/Paleo-Playground-s-Website/blob/master/blog/content/post/SkinCustomizationImages/VelociPattern4.png?raw=true" width=200>
-<img src="https://github.com/Predatoria/Paleo-Playground-s-Website/blob/master/blog/content/post/SkinCustomizationImages/VelociPattern5.png?raw=true" width=200>
-<img src="https://github.com/Predatoria/Paleo-Playground-s-Website/blob/master/blog/content/post/SkinCustomizationImages/VelociPattern6.png?raw=true" width=200>
-<img src="https://github.com/Predatoria/Paleo-Playground-s-Website/blob/master/blog/content/post/SkinCustomizationImages/VelociPattern7.png?raw=true" width=200>
+<img src="/images/SkinCustomizationImages/VelociPattern1.png" width=200>
+<img src="/images/SkinCustomizationImages/VelociPattern2.png" width=200>
+<img src="/images/SkinCustomizationImages/VelociPattern3.png" width=200>
+<img src="/images/SkinCustomizationImages/VelociPattern4.png" width=200>
+<img src="/images/SkinCustomizationImages/VelociPattern5.png" width=200>
+<img src="/images/SkinCustomizationImages/VelociPattern6.png" width=200>
+<img src="/images/SkinCustomizationImages/VelociPattern7.png" width=200>
 
 Under each pattern are color choices that use the color picker.  These will recolor separate pieces of the pattern.  Adjustment of the alpha can also be done such that more or less of the underlying coloring can be seen.
 
 During our first Multiplayer test last Monday, March 12th, players seemed to very much enjoy this feature even in its early stages.  Here you can see several of us lining up for a little skin design contest we had.  The parasaurolophus seemed to be a popular dinosaur choice due to its stock skin being particularly conductive to fun recolors.
 
-![alt text](https://github.com/Predatoria/Paleo-Playground-s-Website/blob/master/blog/content/post/SkinCustomizationImages/SkinContest.png?raw=true "")
+![alt text](/images/SkinCustomizationImages/SkinContest.png)
 
 But this screenshot does beg another question to be brought up.  Just how much colorization and customization should we, as game designers, allow?  Currently, it is completely unchecked.  Some other games such as Skyrim do have significant customization options players can choose for their characters, but most games don’t let you have a neon green skin tone, and restrict such an option appropriately.  After all, we already have seen some crazy skins come up with this system.
 
-![alt text](https://github.com/Predatoria/Paleo-Playground-s-Website/blob/master/blog/content/post/SkinCustomizationImages/UglySkins.png?raw=true "")
+![alt text](/images/SkinCustomizationImages/UglySkins.png)
 
 So as a game designer, do I restrict the palate of colors to more natural variations?  If I wished to do so, by what means or algorithm would I decide what colors were acceptable and what colors were not?  It is much, much easier from my perspective to let a player have full control over the color choices than to try to restrict it in ways that disallows skins such as the one above on the left.  Do we even want to restrict it at all?  After all, taking away options from players can only serve to restrict what a player may want to do.
 
