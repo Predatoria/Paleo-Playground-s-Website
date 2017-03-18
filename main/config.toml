@@ -55,7 +55,7 @@ CanonifyUrls=true
         
             [params.navigation.external.blog]
                 order = 1
-                href = "../devblog"
+                href = "http://firewalrus.com/paleo/devblog"
                 display = "Blog"
             [params.navigation.external.discord]
                 order = 2
