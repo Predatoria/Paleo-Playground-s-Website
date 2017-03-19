@@ -39,11 +39,11 @@ CanonifyUrls=true
                 href = "about/"
                 display = "About"
             [params.navigation.links.faq]
-                order = 1
+                order = 2
                 href = "faq/"
                 display = "FAQ"
             #[params.navigation.links.services]
-            #    order = 2
+            #    order = 3
             #    href = "#services"
             #    display = "Services"
             [params.navigation.links.contact]
