@@ -9,13 +9,18 @@ title = "Frequently Asked Questions"
 
 # Questions
 ------
+
+**What is Paleo Playground?**
+
+Paleo Playground is the beginning of an open-world, multiplayer-based, Mesozoic ecosystem where players can take the role of several creatures of their choice and attempt to survive.  The ecosystem will be comprised primarily of players, though smaller, AI-based prey will also serve some sustenance.  
+
+**Where is Paleo Playground in its development?**
+
+Paleo Playground is still very early into its development, which began on January 16th, 2017.  Two months in, however, we're quite proud of what we have to show so far.  
+
 **What creatures are planned to be playable?**
 
-Given how young Paleo Playground is, the topic of finding models for use in our game was a tough one.  We don't yet have any money for professional commissions so asset stores for UE4 or Unity have been a frequent place we've visited in search of models and other assets.
-
-That being said, finding obscure or under-represented dinosaurs that come with a good set of animations on these asset stores is not a possibility for us at this time.  
-
-In the future, it is one of our goals to commission professionally done models of a wide variety, the creatures of which will likely based to some extent on popular demand.  For now, however, we have acquired models and accompanying animations for the following creatures, and have full intention of implementing all fourteen of these terrestrial, aquatic, and flying creatures into our game as a minimum.
+We currently plan to implement the following list of prehistoric creatures.  In the future, this list is likely to expand.
 
 * Ankylosaurus - Planned
 * Apatosaurus - Planned
@@ -32,9 +37,54 @@ In the future, it is one of our goals to commission professionally done models o
 * Utahraptor - Ingame, but model is being replaced
 * Velociraptor - Ingame
 
+**Will Paleo Playground have singleplayer support, or will it strictly be a multiplayer game?**
+
+Paleo Playground is being created as a multiplayer game.  We will, however, allow players to host unlisted servers if they desire such that they're effectively solo.
+
+**What platforms will Paleo Playground be available on?**
+
+Currently while Paleo Playground is in its earliest stages of development, it will only have Windows support.  In the future, MAC support will be added as well.  Steam is our target platform for distribution, but we're a bit early in development to be considering Steam Greenlight yet.  We'll get there.
+
+**When will Paleo Playground be released?**
+
+Truth be told, we aren't sure yet.  Development began on Paleo Playground on January 16th, 2017, so as I am writing this the game is about 2 months old.  
+
+**Will there be Steam achievements?**
+
+Yes!  I absolutely plan for achievements to be part of the game!
+
+**How much will Paleo Playground Cost?**
+
+A price has not yet been decided, but it'll likely be $20-25 on Steam when we feel it's ready to go into Steam-based early access development.
+
+**How can I keep up with Paleo Playground's development?**
+
+The best way to keep up with development is to join our Discord or check the development blog located on this webpage.  Currently, most activity takes place here including links to our most recent test builds and patch notes.
+
+https://discord.gg/xGJznn5
+
+
+
+
+
+
+
+
+
+
+
+
+
 **What kinds of maps will there be?**
 
-I've always been a fan of bright, sunny, tropical maps and I also like islands and jungle ruins.  
+I've always been a fan of bright, sunny, tropical maps and I also like islands and jungle ruins.  The map we're currently working on is, expectedly, a bright sunny tropical island!  For a while during contruction of the game in its earliest stages, we played on Tropical_Island_1_MP.  This map used some placeholder texture assets and a low-poly foliage pack I purchased off the UE4 marketplace. 
+
+Beginning March 16th, however, we have began development on an improved map that will likely serve as one of many playable maps in the game's future.  This one for the time being has been named Tropical_Island_2_MP.  It is likely a desert-based map with lush oases and scarse water resources will be created.  A plains-based map and a marsh-based map have also been discussed.  Here, however, I'll go into a bit more detail about the map we're currently focused on, Tropical_Island_2_MP.
+
+<img src="/img/faq/Map1.jpg" width=600>
+<img src="/img/faq/Map2.jpg" width=600>
+
+To not reveal embarassing screenshots of extremely unfinished terrain, I present above two images that give the kind of atmosphere we will be going for on our first official map.  It will be a series of islands covered with lush, tropical vegetation and hidden, ancient ruins.  As to why dinosaurs are occupying the same time period as man-made ruins, hmmm, it may be revealed later in a post about Paleo Playground's backstory!  The ultimate answer is that I love temples and jungles, and wanted a map with them in it.  
 
 **What survival elements will be present in Paleo Playground?**
 
