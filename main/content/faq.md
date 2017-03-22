@@ -7,9 +7,6 @@ layout = "info"
 title = "Frequently Asked Questions"
 +++
 
-# Questions
-------
-
 **What is Paleo Playground?**
 
 Paleo Playground is the beginning of an open-world, multiplayer-based, Mesozoic ecosystem where players can take the role of several creatures of their choice and attempt to survive.  The ecosystem will be comprised primarily of players, though smaller, AI-based prey will also serve some sustenance.  
@@ -63,6 +60,7 @@ The best way to keep up with development is to join our Discord or check the dev
 
 https://discord.gg/xGJznn5
 
+For more information about in-depth game mechanics and descriptions, see the About section!
 
 
 
@@ -75,33 +73,7 @@ https://discord.gg/xGJznn5
 
 
 
-**What kinds of maps will there be?**
 
-I've always been a fan of bright, sunny, tropical maps and I also like islands and jungle ruins.  The map we're currently working on is, expectedly, a bright sunny tropical island!  For a while during contruction of the game in its earliest stages, we played on Tropical_Island_1_MP.  This map used some placeholder texture assets and a low-poly foliage pack I purchased off the UE4 marketplace. 
 
-Beginning March 16th, however, we have began development on an improved map that will likely serve as one of many playable maps in the game's future.  This one for the time being has been named Tropical_Island_2_MP.  It is likely a desert-based map with lush oases and scarse water resources will be created.  A plains-based map and a marsh-based map have also been discussed.  Here, however, I'll go into a bit more detail about the map we're currently focused on, Tropical_Island_2_MP.
-
-<img src="/img/faq/Map1.jpg" width=600>
-<img src="/img/faq/Map2.jpg" width=600>
-
-To not reveal embarassing screenshots of extremely unfinished terrain, I present above two images that give the kind of atmosphere we will be going for on our first official map.  It will be a series of islands covered with lush, tropical vegetation and hidden, ancient ruins.  As to why dinosaurs are occupying the same time period as man-made ruins, hmmm, it may be revealed later in a post about Paleo Playground's backstory!  The ultimate answer is that I love temples and jungles, and wanted a map with them in it.  
-
-**What survival elements will be present in Paleo Playground?**
-
-Players will need to manage three resources well in order to survive in our ecosystem.  Two of these, food and water, are easily guessable by an audience well-versed in survival games, but the third may come as an interesting surprise.  The third resource that will play a very critical role in a player’s ability to hunt, evade predation, and ultimately survive is comfort.  I’ll go into a bit more detail regarding the roles food, water, and comfort will play in a player’s survival in Paleo Playground.
-
-<img src="/img/faq/UI.png" width=300>
-
-Food will be acquired in one of two ways, depending on which creature you choose to play.  Carnivores will survive solely by feasting upon the corpses of others.  Herbivores will survive solely by feasting upon plant life that’s placed around the map.  Omnivores will survive by eating from both sources, but will only be able to fully satiate their hunger by feeding on both sources of food.
-
-Larger creature carcasses yield more food value, and larger creatures also require more food to sustain themselves.  This is, in fact, one way we will balance the ecosystem for meat-eaters.  Smaller creatures will simply have an easier time feeding.  The AI in our game will be small, offering less than a bite to a large carnivore.  This means that while a smaller creature such as a Compsognathus may be able to survive solely off the pickings of our AI or a quick snack from a nearby carcass, a larger creature will need to hunt and kill other players to survive.  If everybody wishes to play a Tyrannosaurus Rex, they’ll need to kill each other for survival, as the baseline ecosystem will fail to offer food for such a collection of large beasts.
-
-Regarding plant material, it works in a similar way.  Large herbivores will require a lot of plants to survive, larger ones being capable of consuming entire areas of plant material at once.  Different herbivores will also eat from different plant groups, with larger ones being capable of eating larger foliage.  The plant life on the map will be tuned such that it poses threat of exhaustion should too many players play as large herbivores.  Plants will regenerate over time, and this foliage regeneration rate is fixed.  A player may find themselves much more relaxed regarding dietary requirements playing a smaller herbivore capable of sustaining itself purely on smaller, quickly respawning plants.
-
-We also have an interesting take on how water works in Paleo Playground.  Our water sources are not static.  They deplete and the water table drops when used for drinking, and it slowly replenish over time.  Larger creatures deplete water rapidly, whereas smaller creatures do little to drop the level of a watering hole.  Again this offers a second check on our ecosystem in Paleo Playground.  If every player wishes to play a large herbivore or carnivore, they’re going to be thirsty and watering holes will dry up, forcing competition.
-
-Lastly, the resource that may play the most pivotal role in shaping the player-built ecosystems Paleo Playground will harbor is comfort.  Comfort is a representation of how comfortable you are as a creature in the world.  Stressful scenarios will decrease your comfort, whereas scenarios that provide safety or soothing will yield an increase in comfort.
-
-**How does comfort work?**
 
 
