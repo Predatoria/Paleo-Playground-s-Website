@@ -58,7 +58,7 @@ CanonifyUrls=true
         
             [params.navigation.external.blog]
                 order = 1
-                href = "http://paleo-playground.com/devblog"
+                href = "http://paleo-playground.com/blog"
                 display = "Blog"
             [params.navigation.external.discord]
                 order = 2
