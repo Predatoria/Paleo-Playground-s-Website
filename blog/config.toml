@@ -1,5 +1,5 @@
 title = "Dev Blog - Paleo Playground"
-baseURL = "http://firewalrus.com/paleo/devblog/"
+baseURL = "http://paleo-playground.com/devblog/"
 languageCode = "en-us"
 theme = "hugo-theme-shiori"
 author = "Matthew Weiss"

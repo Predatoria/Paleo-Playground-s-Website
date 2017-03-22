@@ -1,4 +1,4 @@
-baseurl = "http://firewalrus.com/paleo/playground/"
+baseurl = "http://paleo-playground.com/"
 languageCode = "en-us"
 title = "Paleo Playground"
 theme = "hugo-creative-theme"
@@ -58,7 +58,7 @@ CanonifyUrls=true
         
             [params.navigation.external.blog]
                 order = 1
-                href = "http://firewalrus.com/paleo/devblog"
+                href = "http://paleo-playground.com/devblog"
                 display = "Blog"
             [params.navigation.external.discord]
                 order = 2

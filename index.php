@@ -1,4 +1,4 @@
 <?php
-header("Location: http://firewalrus.com/paleo/playground/");
+header("Location: http://paleo-playground.com/");
 die();
 ?>
