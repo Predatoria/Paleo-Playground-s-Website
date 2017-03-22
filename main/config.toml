@@ -33,21 +33,24 @@ CanonifyUrls=true
 		brand = "Paleo Playground"
 
 		[params.navigation.links]
-        
-            [params.navigation.links.about]
+            [params.navigation.links.screenshots]
                 order = 1
+                href = "screenshots/"
+                display = "Screenshot Gallery"
+            [params.navigation.links.about]
+                order = 2
                 href = "about/"
                 display = "About"
             [params.navigation.links.faq]
-                order = 2
+                order = 3
                 href = "faq/"
                 display = "FAQ"
             #[params.navigation.links.services]
-            #    order = 3
+            #    order = 4
             #    href = "#services"
             #    display = "Services"
             [params.navigation.links.contact]
-                order = 4
+                order = 5
                 href = "#contact"
                 display = "Contact"
                 

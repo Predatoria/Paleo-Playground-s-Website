@@ -19,6 +19,7 @@ Paleo Playground is still very early into its development, which began on Januar
 
 We currently plan to implement the following list of prehistoric creatures.  In the future, this list is likely to expand.
 
+* Acrocanthosaurus - Ingame
 * Ankylosaurus - Planned
 * Apatosaurus - Planned
 * Compsognathus - Planned
