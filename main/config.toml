@@ -53,6 +53,10 @@ CanonifyUrls=true
                 order = 5
                 href = "#contact"
                 display = "Contact"
+			[params.navigation.links.devs]
+				order = 6
+				href = "devs/"
+				display = "Devs"
                 
         [params.navigation.external]
         
