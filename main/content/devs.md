@@ -22,4 +22,5 @@ Paleo Playground is being primarily co-developed by both Predatoria and Vipe, tw
 We aren't alone on this endeavor, however.  Many people have stepped up and helped us greatly along our journey to create Paleo Playground.  I'd like to give a
 ## Special Thanks to:
 
-## <img src="/img/devs/BananaBaeIcon.jpg" width=50> BananaBae is a friend and an artist who has been with us since day one.  She's created loads of awesome concept art including our 
+## <img src="/img/devs/BananaBaeIcon.jpg" width=50> 
+[BananaBae](http://steamcommunity.com/profiles/76561198196685093/ "BananaBae's Steam page") is a friend and an artist who has been with us since day one.  She's created loads of awesome concept art including our 
