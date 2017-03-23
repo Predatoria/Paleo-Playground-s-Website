@@ -36,7 +36,7 @@ CanonifyUrls=true
             [params.navigation.links.screenshots]
                 order = 1
                 href = "screenshots/"
-                display = "Screenshot Gallery"
+                display = "Gallery"
             [params.navigation.links.about]
                 order = 2
                 href = "about/"
@@ -68,8 +68,8 @@ CanonifyUrls=true
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Dinosaurs!"
-		subtitle   = "[Lorem](//google.com) ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis nesciunt consequatur ut nihil voluptatem fugiat eos eveniet alias in veniam?"
+		slogan     = "Paleo Playground"
+		subtitle   = " A multiplayer, open-world survival game where **you** are the dinosaur"
 		buttonText = "Find out more"
         buttonLink = "#services"
 
@@ -88,7 +88,7 @@ CanonifyUrls=true
         [[params.services.list]]
             icon = "fa-thermometer-quarter"
             title = "Survival"
-            description = "You have to constantly be on the alert to stay alive."
+            description = "You have to constantly be on the alert and manage your resources to stay alive."
 
         [[params.services.list]]
 			icon = "fa-group"
@@ -100,10 +100,10 @@ CanonifyUrls=true
             title = "Dual Styles"
             description = "Play as a carnivore or herbivore with two radically different styles of play."
 
-        [[params.services.list]]
-            icon = "fa-heart"
-            title = "Developers who Care"
-            description = "This game is made by developers who will not let this game die in Early Access!"
+        #[[params.services.list]]
+        #    icon = "fa-heart"
+        #    title = "Developers who Care"
+        #    description = "This game is made by developers who will not let this game #die in Early Access!"
 
         [params.services.button]
 			text = "Find out even more"

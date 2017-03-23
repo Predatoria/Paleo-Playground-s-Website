@@ -4,7 +4,7 @@ draft = false
 type = "page"
 layout = "info"
 
-title = "Screenshot Gallery"
+title = "Gallery"
 containerid = "screenshots"
 +++
 ## Here are a few screenshots from some of our multiplayer open-server events!  

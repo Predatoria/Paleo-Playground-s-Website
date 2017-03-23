@@ -11,6 +11,8 @@ containerid = "about"
 # About Paleo Playground
 ------
 
+Paleo Playground is still very, very early in development.  We have been working hard to bring this game up and develop it into an open-world, multiplayer survival game in which the player takes the role of various herbivorous or carnivorous dinosaurs.  
+
 **What survival elements will be present in Paleo Playground?**
 
 Players will need to manage three resources well in order to survive in our ecosystem.  Two of these, food and water, are easily guessable by an audience well-versed in survival games, but the third may come as an interesting surprise.  The third resource that will play a very critical role in a player’s ability to hunt, evade predation, and ultimately survive is comfort.  I’ll go into a bit more detail regarding the roles food, water, and comfort will play in a player’s survival in Paleo Playground.
