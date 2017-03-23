@@ -44,5 +44,9 @@ Skin Contest
 Parasaurolophus Herd
 <img src="/img/screenshots/ParaHerd.jpg" width=300>
 
+And last.... There's a bit of story behind this.  I have a 'debug' key that I attach  scripts to whenever I'm working on Paleo Playground.  What's attached to the debug key typically pertains to whatever I happen to be working on at the time, and sometimes it's easier to press P than recreate game events to cause a certain part of the game's code to execute during ordinary gameplay.  It just so happens I was working on figuring out a good way for creatures to 'ragdoll' when they ran too fast down a hill in conjunction with our downhill speed-boost system, and forgot to remove a certain script from the P key.  The P key applies physics to the collision capsule that surrounds the dinosaur.  Raptors have a perfectly spherical collision capsule.  This is what happened when raptors pressed the P key:
+
+<iframe width="420" height="238" src="/img/screenshots/RaptorRolling.webm" frameborder="0" allowfullscreen></iframe>
+
 To see many more screenshots, I have uploaded lots of them [here](http://steamcommunity.com/id/Predatoria/screenshots/?appid=480 "Predatoria's Steam Screenshots").
 

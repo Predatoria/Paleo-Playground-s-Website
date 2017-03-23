@@ -71,8 +71,8 @@ CanonifyUrls=true
 		slogan     = "Paleo Playground"
 		subtitle   = " A multiplayer, open-world survival game where **you** are the dinosaur"
 		buttonText = "Find out more"
-        buttonLink = "#services"
-
+        #buttonLink = "#services" - changed to point to About section
+		buttonLink = "about/"
 
 	# About section
 	#[params.about]
@@ -83,31 +83,31 @@ CanonifyUrls=true
 
 	# Service section
 	[params.services]
-		headline = "About the Game"
+		#headline = "About the Game"
 
-        [[params.services.list]]
-            icon = "fa-thermometer-quarter"
-            title = "Survival"
-            description = "You have to constantly be on the alert and manage your resources to stay alive."
+        #[[params.services.list]]
+        #    icon = "fa-thermometer-quarter"
+        #    title = "Survival"
+        #    description = "You have to constantly be on the alert and manage your #resources to stay alive."
 
-        [[params.services.list]]
-			icon = "fa-group"
-			title = "Multiplayer"
-			description = "Run wild with your friends in a pack of velociraptors!"
+        #[[params.services.list]]
+		#	icon = "fa-group"
+		#	title = "Multiplayer"
+		#	description = "Run wild with your friends in a pack of velociraptors!"
 
-		[[params.services.list]]
-            icon = "fa-paw"
-            title = "Dual Styles"
-            description = "Play as a carnivore or herbivore with two radically different styles of play."
+		#[[params.services.list]]
+        #    icon = "fa-paw"
+        #    title = "Dual Styles"
+        #    description = "Play as a carnivore or herbivore with two radically #different styles of play."
 
         #[[params.services.list]]
         #    icon = "fa-heart"
         #    title = "Developers who Care"
         #    description = "This game is made by developers who will not let this game #die in Early Access!"
 
-        [params.services.button]
-			text = "Find out even more"
-			link = "about/"
+        #[params.services.button]
+		#	text = "Find out even more"
+		#	link = "about/"
 
     # Portfolio modals
 	#[params.portfolio.modal]
@@ -117,20 +117,21 @@ CanonifyUrls=true
     #    buttonText = "Close"
 
     # Aside section
-	[params.aside]
-		headline = "Support the Game on Steam"
-
-		[params.aside.button]
-			text = "Join the Community Group"
-			link = "http://steamcommunity.com/groups/PaleoPlayground"
+	#[params.aside]
+	#	headline = "Follow Paleo Playground's Early Development!"
+#
+#		[params.aside.button]
+#			text = "Join the Community Discord"
+#			link = "https://discord.gg/xGJznn5"
+#			#link = "http://steamcommunity.com/groups/PaleoPlayground"
 
 	# Contact section
 	[params.contact]
-		headline = "Contact the Team!"
+		headline = "Follow Early Development!"
 		description = "Have a question or wish to contribute to the project?"
 		# phone = "123-456-6789"
         discord = "https://discord.gg/xGJznn5"
-		email = "team@paleoplayground.com"
+		#email = "team@paleoplayground.com"
         
     # The footer
     [params.footer]
