@@ -29,7 +29,7 @@ We aren't alone on this endeavor, however.  Many people have stepped up and help
 [HungryEye](http://steamcommunity.com/profiles/76561198115008699/ "HungryEye's Steam page") is a friend and specializes in creating sounds and audio.  He's supported us by creating several sounds for our Acrocanthosaurus as well as creating our title screen music!
 
 ## <img src="/img/devs/KittemsIcon.png" width=50> Kittems
-[Kittems](http://steamcommunity.com/id/Kittems "Kittems' Steam page), the owner of [Ottermatic](ottermatic.io "Kittems' Web Dev / Gaming Company) is a genius of a web developer and created this entire website setup!  I filled in the content, but couldnt've done it without him.
+[Kittems](http://steamcommunity.com/id/Kittems "Kittems' Steam page), the owner of [Ottermatic Dev.](ottermatic.io "Kittems' Web Dev / Gaming Company) is a genius of a web developer and created this entire website setup!  I filled in the content, but couldnt've done it without him.  He's super awesome.
 
 ## <img src="/img/devs/OmnomnomnivoreIcon.jpg" width=50> Omnomnomnivore
 [Omnomnomnivore](http://steamcommunity.com/profiles/76561198124262389/ "Omnomnomnivore's Steam page") is another friend and [artist](http://eclipseadamah.deviantart.com/ "Omnomnomnivore's Deviantart") who's supported Paleo Playground.  She created our first custom [Parasaurolophus skin](/img/devs/ParaSkin.png "Para Skin"), and has been dabbling in modeling lately!
