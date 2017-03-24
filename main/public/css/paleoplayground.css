@@ -1,0 +1,34 @@
+/* The navigation has been edited to have external and internal */
+.divider-vertical {
+    height: 50px;
+    margin: 0 9px;
+}
+/* When at the top, the lines should match the transparency of the page */
+.navbar.affix-top .divider-vertical {
+    border-left: 1px solid rgba(255,255,255,.3);
+    border-right: 1px solid rgba(255,255,255,.3);
+}
+/* When not at the top, it should be a darker line */
+.navbar.affix .divider-vertical {
+    border-left: 1px solid rgb(240, 95, 64);
+    border-right: 1px solid rgb(240, 95, 64);
+    -webkit-transition: border-left 2s, border-right 2s; /* Safari */
+    transition: border-left 2s, border-right 2s;
+}
+
+/** Modifications to the header for subpages */
+.subpage {
+    min-height: 250px;
+    border-bottom: 3px solid rgb(240, 95, 64);
+}
+
+.subpage .header-content {
+    top: 70%;
+}
+
+/* Used for footer */
+.sm-primary {
+    background-color: #f05f40;
+    color: #fff;
+    padding: 15px 0;
+}

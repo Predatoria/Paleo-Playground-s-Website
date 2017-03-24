@@ -2,18 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://firewalrus.com/paleo/post/test-post/</loc>
+    <loc>http://paleo-playground.com/about/</loc>
     <lastmod>2017-03-15T16:49:45-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://firewalrus.com/paleo/</loc>
+    <loc>http://paleo-playground.com/devs/</loc>
+    <lastmod>2017-03-15T16:49:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://paleo-playground.com/faq/</loc>
+    <lastmod>2017-03-15T16:49:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://paleo-playground.com/screenshots/</loc>
+    <lastmod>2017-03-15T16:49:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://paleo-playground.com/post/test-post/</loc>
+    <lastmod>2017-03-15T16:49:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://paleo-playground.com/</loc>
     <lastmod>2017-03-15T16:49:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://firewalrus.com/paleo/post/</loc>
+    <loc>http://paleo-playground.com/post/</loc>
     <lastmod>2017-03-15T16:49:45-04:00</lastmod>
     <priority>0</priority>
   </url>
