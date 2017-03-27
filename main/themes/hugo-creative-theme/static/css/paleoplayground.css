@@ -32,3 +32,8 @@
     color: #fff;
     padding: 15px 0;
 }
+
+/* Used for notifications */
+.notification {
+    position:absolute;
+}

@@ -1,6 +1,12 @@
 {{ "<!-- HEADER -->" | safeHTML }}
 <header>
     <div class="header-content">
+        {{ if .Site.Params.notification.icon }}
+            <div class="notification">
+                <i class="fa {{ .Site.Params.notification.icon }}" aria-hidden="true"></i>
+                <span>{{ .Site.Params.notification.html }}</span>
+            </div>
+        {{ end }}
         <div class="header-content-inner">
             {{ with .Site.Params.hero.slogan }}
                 <h1>{{ . | markdownify  }}</h1>

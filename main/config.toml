@@ -26,6 +26,12 @@ CanonifyUrls=true
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
+    
+    # If there is an announcement, adding a notification will
+    # be displayed here.
+    [params.notification]
+        icon = "fa-steam-square"
+        html = "testing"
 
 
 	# Navigation

@@ -29,13 +29,13 @@ We aren't alone on this endeavor, however.  Many people have stepped up and help
 [HungryEye](http://steamcommunity.com/profiles/76561198115008699/ "HungryEye's Steam page") is a friend and specializes in creating sounds and audio.  He's supported us by creating several sounds for our Acrocanthosaurus as well as creating our title screen music!
 
 ## <img src="/img/devs/KittemsIcon.png" width=50> Kittems
-[Kittems](http://steamcommunity.com/id/Kittems "Kittems' Steam page), the owner of [Ottermatic Dev.](ottermatic.io "Kittems' Web Dev / Gaming Company) is a genius of a web developer and created this entire website setup!  I filled in the content, but couldnt've done it without him.  He's super awesome.
+[Kittems](http://steamcommunity.com/id/Kittems/), the owner of [Ottermatic Dev.](http://ottermatic.io) is a genius of a web developer and created this entire website setup!  I filled in the content, but couldnt've done it without him.  He's super awesome.
 
 ## <img src="/img/devs/OmnomnomnivoreIcon.jpg" width=50> Omnomnomnivore
 [Omnomnomnivore](http://steamcommunity.com/profiles/76561198124262389/ "Omnomnomnivore's Steam page") is another friend and [artist](http://eclipseadamah.deviantart.com/ "Omnomnomnivore's Deviantart") who's supported Paleo Playground.  She created our first custom [Parasaurolophus skin](/img/devs/ParaSkin.png "Para Skin"), and has been dabbling in modeling lately!
 
 ## <img src="/img/devs/SinopiaIcon.jpg" width=50> Sinopia
-[Sinopia](http://steamcommunity.com/profiles/76561198166827219/ "Sinopia's Steam page") is a [godess](https://www.youtube.com/channel/UCOVyCg4zDifJPgkgukronGw "Sinopia's Youtube channel") of [Depth](http://store.steampowered.com/app/274940/ "Depth's Steam Page").  She's a buddy I met while playing [The Isle](http://store.steampowered.com/app/376210/ "The Isle's Steam Page") and is a mindblowingly fantastic PvPer.  She has been supporting Paleo Playground, and created our first [Acrocanthosaurus skin](/img/devs/AcroSkin.png "Acro Skin")!
+[Sinopia](http://steamcommunity.com/profiles/76561198166827219/ "Sinopia's Steam page") is a [goddess](https://www.youtube.com/channel/UCOVyCg4zDifJPgkgukronGw "Sinopia's Youtube channel") of [Depth](http://store.steampowered.com/app/274940/ "Depth's Steam Page").  She's a buddy I met while playing [The Isle](http://store.steampowered.com/app/376210/ "The Isle's Steam Page") and is a mindblowingly fantastic PvPer.  She has been supporting Paleo Playground, and created our first [Acrocanthosaurus skin](/img/devs/AcroSkin.png "Acro Skin")!
 
 ## <img src="/img/devs/SynopsisIcon.png" width=50> Synopsis
 [Synopsis](http://steamcommunity.com/profiles/76561198263149243/ "Synopsis' Steam page") is a friend and an indie developer himself!  He's the lead developer on [Primal Instincts](https://discord.gg/8AAHgsd "Primal Instincts Discord") and created our [carcass model](/img/devs/Carcass.png "Carcass Image")!
