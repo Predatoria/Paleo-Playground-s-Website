@@ -37,8 +37,10 @@ And super last, I added knockback to its tail.  It slaps Velociraptors pretty ha
 
 When you press the right mouse button, the tail cracks like a whip sweeping the area it is pointed.  It seems to be quite lethal and very scary, even from the high seat of playing the Apatosaurus.  I can't imagine how intimidating this tail will be to a potential predator.  Combining these tweaks and alot of time and attention to detail of this, I got these great results:
 
-(Need to take more pictures later to insert here)
 <img src="/images/TailTracking/Tail1.png" width=600>
+<img src="/images/TailTracking/Tail2.png" width=600>
+<img src="/images/TailTracking/Tail3.png" width=600>
+<img src="/images/TailTracking/Tail4.png" width=600>
 
 I hope you enjoyed reading about how tail tracking was achieved in Paleo Playground!  I'm pretty excited about it, as I feel like this little detail will make our sauropod much more fun to play and much more capable of defending itself as well, doing justice to the glorious Diplodocids of the Jurassic.
 
