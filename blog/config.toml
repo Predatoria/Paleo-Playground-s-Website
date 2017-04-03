@@ -2,10 +2,10 @@ title = "Dev Blog - Paleo Playground"
 baseURL = "http://paleo-playground.com/blog/"
 languageCode = "en-us"
 theme = "hugo-theme-shiori"
-author = "Matthew Weiss"
+author = "Paleo Playground Devs"
 CanonifyUrls=true
 DisqusShortname="paleo-playground"
 
 [params]
-    author_name = "Matthew Weiss"
+    author_name = "Paleo Playground Devs"
     twitter_username = "PredatoriaED"
