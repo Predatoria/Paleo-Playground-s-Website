@@ -9,7 +9,20 @@ containerid = "screenshots"
 +++
 ## Here are a few screenshots from some of our multiplayer open-server events!  
 
+Some caves on one of the map's islands
+<img src="/img/screenshots/Cave.jpg" width=300>
 
+The secret temple
+<img src="/img/screenshots/Temple.jpg" width=300>
+
+A demon's residence
+<img src="/img/screenshots/TempleAcro.jpg" width=300>
+
+Last words
+<img src="/img/screenshots/LastWords.jpg" width=300>
+
+Apatosaurus on the Beach
+<img src="/img/screenshots/Apatos.jpg" width=300>
 
 Hunting the Parasaurolophus
 <img src="/img/screenshots/Hunting Para.jpg" width=300>
