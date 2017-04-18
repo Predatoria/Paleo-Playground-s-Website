@@ -85,7 +85,7 @@ This is the extreme of our weather generating system.  This storm has, 30 minute
 
 <img src="/images/ProceduralWeather/LargeStorm.png" width=600>
 
-If you stayed outside during this storm at its worst (between 25 - 25 minutes into the storm), you would die.  This will severely drop comfort levels to the point where health begins to decay and also poses substantial risk for being struck by lightning.  A high storm surge also poses a risk for flooding the low-lying terrain on the map, and there will be rip currents as well.
+If you stayed outside during this storm at its worst (between 25 - 35 minutes into the storm), you would die.  This will severely drop comfort levels to the point where health begins to decay and also poses substantial risk for being struck by lightning.  A high storm surge also poses a risk for flooding the low-lying terrain on the map, and there will be rip currents as well.
 
 ## Storms and Gameplay
 
