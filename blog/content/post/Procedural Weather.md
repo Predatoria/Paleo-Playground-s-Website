@@ -4,7 +4,7 @@ title = "Procedural Weather"
 draft = false
 
 +++
-Warning!  Math is in here, be warned.  I try to make it not that bad.
+Warning!  Math is in here, be warned.  I try to make it not that bad.  If you want to see how storms influence gameplay without reading the math, skip to the section with the plots and pictures!
 
 
 
