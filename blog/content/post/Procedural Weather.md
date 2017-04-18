@@ -64,7 +64,7 @@ When these are all summed together, we can generate storm profiles such as these
 
 <img src="/images/ProceduralWeather/SmallStorm1.jpg" width=1600>
 
-The image above contains procedurally generated functions of all seven storm criteria plus the underlying intensity function for a relatively small storm.  Notice that for a small storm, there is no lightning, deliberately so.  This is because lightning only occurs when rain intensity exceeds 2.0.  There is also very little fog and wind.  There is very little surge and no cumulous cloud cover.  A storm like this would likely appear to be a gentle drizzle and a bright grey sky.  It lasted twelve minutes, and likely would be hardly more than scenic rain for players on the map.
+The image above contains procedurally generated functions of all seven storm criteria plus the underlying intensity function for a relatively small storm.  Notice that for a small storm, there is no lightning, deliberately so.  This is because lightning only occurs when rain intensity exceeds 2.0.  There is also very little fog and wind.  There is very little surge and no cumulous cloud cover.  A storm like this would likely appear to be a gentle drizzle and a bright grey sky.  It lasted twelve minutes, and likely would be hardly more than scenic rain for players on the map.  Ignore the surge here, as I was just testing things out.  That surge was not a result of this tiny storm.
 
 <img src="/images/ProceduralWeather/LightStorm.png" width=600>
 
