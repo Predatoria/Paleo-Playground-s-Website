@@ -19,7 +19,7 @@ When a storm has been seeded, two points are calculated randomly in the future. 
 There are four intervals of storm behavior that are governed by randomly generated numbers of different flavor, and each successive randomly generated point on a storm that defines intensity lies 36 seconds in the future of the previous.  These are discrete points that govern the storm shape through time.  If intensity ever goes below zero, the storm is over, and the weather returns sunny until another storm decides to manifest.
 
 <img src="/images/ProceduralWeather/AcroRain.jpg" width=600>
-(Image by [BananaBae](https://bananasareappealing.tumblr.com/ "BananaBae's tumblr")
+By [BananaBae](https://bananasareappealing.tumblr.com/ "BananaBae's tumblr")
 
 ## Stage One : Storm Infancy
 
