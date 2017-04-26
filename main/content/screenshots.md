@@ -9,6 +9,21 @@ containerid = "screenshots"
 +++
 ## Here are a few screenshots from some of our multiplayer open-server events!  
 
+Storm Surge
+<img src="/img/screenshots/StormSurge1.jpg" width=300>
+
+Acro chasing herd
+<img src="/img/screenshots/AcroRain.jpg" width=300>
+
+Apato herd before the storm
+<img src="/img/screenshots/GrassyLake2.jpg" width=300>
+
+A grassy lake with some apatosaurus
+<img src="/img/screenshots/GrassyLake1.jpg" width=300>
+
+Testing raptor latching
+<img src="/img/screenshots/RaptorAndApato.jpg" width=300>
+
 Some caves on one of the map's islands
 <img src="/img/screenshots/Cave.jpg" width=300>
 
