@@ -9,6 +9,15 @@ containerid = "screenshots"
 +++
 ## Here are a few screenshots from some of our multiplayer open-server events!  
 
+Mosa Playtest 1
+<img src="/img/screenshots/OceanMosa.jpg" width=300>
+
+Beached Mosasaurus
+<img src="/img/screenshots/BeachedMosa.jpg" width=300>
+
+Hiding Mosasaurus
+<img src="/img/screenshots/HidingMosa.jpg" width=300>
+
 Storm Surge
 <img src="/img/screenshots/StormSurge1.jpg" width=300>
 
