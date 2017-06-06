@@ -10,7 +10,7 @@ containerid = "screenshots"
 ## Here are a few screenshots from some of our multiplayer open-server events!  
 
 Secrets
-<img src="/img/screenshots/Secrets.jpg" width=300>
+<img src="/img/screenshots/Secret.jpg" width=300>
 
 Seaworld
 <img src="/img/screenshots/Seaworld.jpg" width=300>
