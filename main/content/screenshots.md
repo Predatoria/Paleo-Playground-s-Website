@@ -9,6 +9,33 @@ containerid = "screenshots"
 +++
 ## Here are a few screenshots from some of our multiplayer open-server events!  
 
+Secrets
+<img src="/img/screenshots/Secrets.jpg" width=300>
+
+Seaworld
+<img src="/img/screenshots/Seaworld.jpg" width=300>
+
+Mosa pod
+<img src="/img/screenshots/MosaPod.jpg" width=300>
+
+Mistakes were made
+<img src="/img/screenshots/Mistake.jpg" width=300>
+
+Hanging on
+<img src="/img/screenshots/Hang.jpg" width=300>
+
+An angry sky
+<img src="/img/screenshots/Stormy.png" width=300>
+
+Freshwater Source
+<img src="/img/screenshots/Freshwater.png" width=300>
+
+An unfortunate Acro
+<img src="/img/screenshots/DrownedAcro.jpg" width=300>
+
+Mosa trapped by low tide
+<img src="/img/screenshots/BeachedMosa2.jpg" width=300>
+
 Mosa Playtest 1
 <img src="/img/screenshots/OceanMosa.jpg" width=300>
 
