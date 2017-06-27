@@ -51,7 +51,7 @@ CanonifyUrls=true
                 order = 3
                 href = "faq/"
                 display = "FAQ"
-            [params.navigation.links.faq]
+            [params.navigation.links.wiki]
                 order = 4
                 href = "wiki/"
                 display = "Wiki"
