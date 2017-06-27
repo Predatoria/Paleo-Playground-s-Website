@@ -20,3 +20,6 @@ hugo
 
 # Create a symlink for blog
 ln -s /var/www/paleo/blog/public /var/www/paleo/main/public/blog
+
+# Create a symlink for the wiki
+ln -s /var/www/lib/mediawiki /var/www/paleo/main/public/wiki
