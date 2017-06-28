@@ -51,10 +51,6 @@ CanonifyUrls=true
                 order = 3
                 href = "faq/"
                 display = "FAQ"
-            [params.navigation.links.wiki]
-                order = 4
-                href = "wiki/"
-                display = "Wiki"
             #[params.navigation.links.services]
             #    order = 4
             #    href = "#services"
@@ -74,8 +70,12 @@ CanonifyUrls=true
                 order = 1
                 href = "http://paleo-playground.com/blog"
                 display = "Blog"
-            [params.navigation.external.discord]
+            [params.navigation.external.wiki]
                 order = 2
+                href = "http://paleo-playground.com/wiki/"
+                display = "Wiki"
+            [params.navigation.external.discord]
+                order = 3
                 href = "https://discord.gg/xGJznn5"
                 display = "Discord"
                 
