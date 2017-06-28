@@ -1,6 +1,6 @@
 baseurl = "http://paleo-playground.com/"
 languageCode = "en-us"
-title = "Paleo Playground"
+title = "Beasts of Bermuda"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
 CanonifyUrls=true
@@ -21,7 +21,7 @@ CanonifyUrls=true
 
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
-	name = "Paleo Playground"
+	name = "Beasts of Bermuda"
 	description = "A game about dinosaurs, survival, and a fully working ecosystem."
 
 	# The path must be relative to the static folder
@@ -29,14 +29,14 @@ CanonifyUrls=true
     
     # If there is an announcement, adding a notification will
     # be displayed here.
-    [params.notification]
-        icon = "fa-steam-square"
-        html = "testing"
+    #[params.notification]
+    #    icon = "fa-steam-square"
+    #    html = "testing"
 
 
 	# Navigation
 	[params.navigation]
-		brand = "Paleo Playground"
+		brand = "Beasts of Bermuda"
 
 		[params.navigation.links]
             [params.navigation.links.screenshots]
@@ -82,7 +82,7 @@ CanonifyUrls=true
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "Paleo Playground"
+		slogan     = "Beasts of Bermuda"
 		subtitle   = " A multiplayer, open-world survival game where **you** are the dinosaur"
 		buttonText = "Find out more"
         #buttonLink = "#services" - changed to point to About section
@@ -132,7 +132,7 @@ CanonifyUrls=true
 
     # Aside section
 	#[params.aside]
-	#	headline = "Follow Paleo Playground's Early Development!"
+	#	headline = "Follow Beast of Bermuda's Early Development!"
 #
 #		[params.aside.button]
 #			text = "Join the Community Discord"
