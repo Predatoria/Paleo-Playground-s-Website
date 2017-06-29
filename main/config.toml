@@ -1,4 +1,4 @@
-baseurl = "http://paleo-playground.com/"
+baseurl = "http://beastsofbermuda.com/"
 languageCode = "en-us"
 title = "Beasts of Bermuda"
 theme = "hugo-creative-theme"
@@ -68,11 +68,11 @@ CanonifyUrls=true
         
             [params.navigation.external.blog]
                 order = 1
-                href = "http://paleo-playground.com/blog"
+                href = "http://beastsofbermuda.com/blog"
                 display = "Blog"
             [params.navigation.external.wiki]
                 order = 2
-                href = "http://paleo-playground.com/wiki/"
+                href = "http://beastsofbermuda.com/wiki/"
                 display = "Wiki"
             [params.navigation.external.discord]
                 order = 3

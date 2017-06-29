@@ -1,5 +1,5 @@
 title = "Dev Blog - Beasts of Bermuda"
-baseURL = "http://paleo-playground.com/blog/"
+baseURL = "http://beastsofbermuda.com/blog/"
 languageCode = "en-us"
 theme = "hugo-theme-shiori"
 author = "Beasts of Bermuda Devs"
