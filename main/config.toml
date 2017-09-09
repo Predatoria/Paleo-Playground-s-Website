@@ -43,26 +43,26 @@ CanonifyUrls=true
                 order = 1
                 href = "screenshots/"
                 display = "Gallery"
-            [params.navigation.links.about]
-                order = 2
-                href = "about/"
-                display = "About"
-            [params.navigation.links.faq]
-                order = 3
-                href = "faq/"
-                display = "FAQ"
+            #[params.navigation.links.about]
+            #    order = 2
+            #    href = "about/"
+            #    display = "About"
+            #[params.navigation.links.faq]
+            #    order = 3
+            #    href = "faq/"
+            #    display = "FAQ"
             #[params.navigation.links.services]
             #    order = 4
             #    href = "#services"
             #    display = "Services"
-            [params.navigation.links.contact]
-                order = 5
-                href = "#contact"
-                display = "Contact"
-			[params.navigation.links.devs]
-				order = 6
-				href = "devs/"
-				display = "Devs"
+            #[params.navigation.links.contact]
+            #    order = 5
+            #    href = "#contact"
+            #    display = "Contact"
+			#[params.navigation.links.devs]
+			#	order = 6
+			#	href = "devs/"
+			#	display = "Devs"
                 
         [params.navigation.external]
         
@@ -76,7 +76,7 @@ CanonifyUrls=true
                 display = "Wiki"
             [params.navigation.external.discord]
                 order = 3
-                href = "https://discord.gg/xGJznn5"
+                href = "https://discord.gg/PQ5fPNn"
                 display = "Discord"
                 
 	# Hero section
@@ -85,8 +85,8 @@ CanonifyUrls=true
 		slogan     = "Beasts of Bermuda"
 		subtitle   = " A multiplayer, open-world survival game where **you** are the dinosaur"
 		buttonText = "Find out more"
-        #buttonLink = "#services" - changed to point to About section
-		buttonLink = "about/"
+        #buttonLink = "http://beastsofbermuda.com/wiki/w/Main_Page" - changed to point to About section
+		buttonLink = "http://beastsofbermuda.com/wiki/w/Main_Page"
 
 	# About section
 	#[params.about]
@@ -136,7 +136,7 @@ CanonifyUrls=true
 #
 #		[params.aside.button]
 #			text = "Join the Community Discord"
-#			link = "https://discord.gg/xGJznn5"
+#			link = "https://discord.gg/PQ5fPNn"
 #			#link = "http://steamcommunity.com/groups/PaleoPlayground"
 
 	# Contact section
@@ -144,8 +144,8 @@ CanonifyUrls=true
 		headline = "Follow Early Development!"
 		description = "Have a question or wish to contribute to the project?"
 		# phone = "123-456-6789"
-        discord = "https://discord.gg/xGJznn5"
-		#email = "team@paleoplayground.com"
+        discord = "https://discord.gg/PQ5fPNn"
+		#email = "mdweiss@ncsu.edu"
         
     # The footer
     [params.footer]
@@ -156,3 +156,10 @@ CanonifyUrls=true
 	# 	latitude  = "34.007850"
 	# 	longitude = "-118.499305"
 	# 	maps_api_key = ""
+	
+	
+
+	
+	
+	
+	

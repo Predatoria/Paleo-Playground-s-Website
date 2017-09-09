@@ -4,7 +4,7 @@ draft = false
 type = "page"
 layout = "info"
 
-title = "Frequently Asked Questions"
+title = "Summary"
 +++
 
 **What is Beasts of Bermuda?**
@@ -87,7 +87,7 @@ Beasts of Bermuda will very likely cost $20.00 and will be purchased on Steam.
 
 The best way to keep up with development is to join our Discord, as sometimes I get lazy and don't update the website regularly.  Currently, most activity takes place here including links to our most recent test builds and patch notes.
 
-https://discord.gg/xGJznn5
+https://discord.gg/PQ5fPNn
 
 
 
