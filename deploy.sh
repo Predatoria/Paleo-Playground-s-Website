@@ -13,6 +13,11 @@ cd /var/www/paleo/main/
 rm -r public
 hugo
 
+# Now, rebuild the files for the studio site
+cd /var/www/paleo/studio/
+rm -r public
+hugo
+
 # Now, rebuild the files for blog site
 cd /var/www/paleo/blog/
 rm -r public

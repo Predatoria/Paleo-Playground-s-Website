@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "http://sastreistudios.com"
 languageCode = "en-us"
 title = "Sastrei Studios"
 theme = "hugo-smpl-theme"
