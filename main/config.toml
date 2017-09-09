@@ -86,7 +86,7 @@ CanonifyUrls=true
 		subtitle   = " A multiplayer, open-world survival game where **you** are the dinosaur"
 		buttonText = "Find out more"
         #buttonLink = "#services" - changed to point to About section
-		buttonLink = "about/"
+		buttonLink = "http://beastsofbermuda.com/wiki/w/Main_Page"
 
 	# About section
 	#[params.about]
