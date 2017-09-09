@@ -55,10 +55,10 @@ CanonifyUrls=true
             #    order = 4
             #    href = "#services"
             #    display = "Services"
-            #[params.navigation.links.contact]
-            #    order = 5
-            #    href = "#contact"
-            #    display = "Contact"
+            [params.navigation.links.contact]
+                order = 5
+                href = "#contact"
+                display = "Contact"
 			#[params.navigation.links.devs]
 			#	order = 6
 			#	href = "devs/"
@@ -76,12 +76,8 @@ CanonifyUrls=true
                 display = "Wiki"
             [params.navigation.external.discord]
                 order = 3
-                href = "https://discord.gg/PQ5fPNn"
+                href = "https://discord.gg/xGJznn5"
                 display = "Discord"
-            [params.navigation.external.company]
-                order = 4
-                href = "http://sastreistudios.com"
-                display = "Company"
                 
 	# Hero section
 	[params.hero]
@@ -89,8 +85,8 @@ CanonifyUrls=true
 		slogan     = "Beasts of Bermuda"
 		subtitle   = " A multiplayer, open-world survival game where **you** are the dinosaur"
 		buttonText = "Find out more"
-        #buttonLink = "http://beastsofbermuda.com/wiki/w/Main_Page" - changed to point to About section
-		buttonLink = "http://beastsofbermuda.com/wiki/w/Main_Page"
+        #buttonLink = "#services" - changed to point to About section
+		buttonLink = "about/"
 
 	# About section
 	#[params.about]
@@ -140,7 +136,7 @@ CanonifyUrls=true
 #
 #		[params.aside.button]
 #			text = "Join the Community Discord"
-#			link = "https://discord.gg/PQ5fPNn"
+#			link = "https://discord.gg/xGJznn5"
 #			#link = "http://steamcommunity.com/groups/PaleoPlayground"
 
 	# Contact section
@@ -148,8 +144,8 @@ CanonifyUrls=true
 		headline = "Follow Early Development!"
 		description = "Have a question or wish to contribute to the project?"
 		# phone = "123-456-6789"
-        discord = "https://discord.gg/PQ5fPNn"
-		#email = "mdweiss@ncsu.edu"
+        discord = "https://discord.gg/xGJznn5"
+		#email = "team@paleoplayground.com"
         
     # The footer
     [params.footer]
@@ -160,10 +156,3 @@ CanonifyUrls=true
 	# 	latitude  = "34.007850"
 	# 	longitude = "-118.499305"
 	# 	maps_api_key = ""
-	
-	
-
-	
-	
-	
-	

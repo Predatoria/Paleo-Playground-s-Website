@@ -7,110 +7,16 @@ layout = "info"
 title = "Gallery"
 containerid = "screenshots"
 +++
-## Here are a few screenshots from some of our multiplayer open-server events!  
+Here are a few images of Beasts of Bermuda.  To see many more screenshots, I have uploaded lots of them [here](http://steamcommunity.com/id/Predatoria/screenshots/?appid=480 "Predatoria's Steam Screenshots").
 
-Secrets
-<img src="/img/screenshots/Secret.jpg" width=300>
+# <img src="/img/screenshots/IchthyInSwamp.png" width=1000>
+# <img src="/img/screenshots/Fire.png" width=1000>
+# <img src="/img/screenshots/Cave.png" width=1000>
+# <img src="/img/screenshots/Cloudy.png" width=1000>
+# <img src="/img/screenshots/Elasmo2.png" width=1000>
+# <img src="/img/screenshots/LastWords.jpg" width=1000>
+# <img src="/img/screenshots/MosaPair.png" width=1000>
+# <img src="/img/screenshots/AcroAndPtera.png" width=1000>
+# <img src="/img/screenshots/Apato3" width=1000>
 
-Seaworld
-<img src="/img/screenshots/Seaworld.jpg" width=300>
-
-Mosa pod
-<img src="/img/screenshots/MosaPod.jpg" width=300>
-
-Mistakes were made
-<img src="/img/screenshots/Mistake.jpg" width=300>
-
-Hanging on
-<img src="/img/screenshots/Hang.jpg" width=300>
-
-An angry sky
-<img src="/img/screenshots/Stormy.png" width=300>
-
-Freshwater Source
-<img src="/img/screenshots/Freshwater.png" width=300>
-
-An unfortunate Acro
-<img src="/img/screenshots/DrownedAcro.jpg" width=300>
-
-Mosa trapped by low tide
-<img src="/img/screenshots/BeachedMosa2.jpg" width=300>
-
-Mosa Playtest 1
-<img src="/img/screenshots/OceanMosa.jpg" width=300>
-
-Beached Mosasaurus
-<img src="/img/screenshots/BeachedMosa.jpg" width=300>
-
-Hiding Mosasaurus
-<img src="/img/screenshots/HidingMosa.jpg" width=300>
-
-Storm Surge
-<img src="/img/screenshots/StormSurge1.jpg" width=300>
-
-Acro chasing herd
-<img src="/img/screenshots/AcroRain.jpg" width=300>
-
-Apato herd before the storm
-<img src="/img/screenshots/GrassyLake2.jpg" width=300>
-
-A grassy lake with some apatosaurus
-<img src="/img/screenshots/GrassyLake1.jpg" width=300>
-
-Testing raptor latching
-<img src="/img/screenshots/RaptorAndApato.jpg" width=300>
-
-Some caves on one of the map's islands
-<img src="/img/screenshots/Cave.jpg" width=300>
-
-The secret temple
-<img src="/img/screenshots/Temple.jpg" width=300>
-
-A demon's residence
-<img src="/img/screenshots/TempleAcro.jpg" width=300>
-
-Last words
-<img src="/img/screenshots/LastWords.jpg" width=300>
-
-Apatosaurus on the Beach
-<img src="/img/screenshots/Apatos.jpg" width=300>
-
-Hunting the Parasaurolophus
-<img src="/img/screenshots/Hunting Para.jpg" width=300>
-
-Deforesting the Island
-<img src="/img/screenshots/ParaOnIsland.jpg" width=300>
-
-Happy raptors
-<img src="/img/screenshots/HappyRaptors.jpg" width=300>
-
-A green camo raptor skin
-<img src="/img/screenshots/Green Raptor.jpg" width=300>
-
-Exploring the unfinished regions of the map
-<img src="/img/screenshots/SS1.jpg" width=300>
-
-An acro is hiding here!
-<img src="/img/screenshots/AcroCamo.png" width=300>
-
-Sandy acro
-<img src="/img/screenshots/SandyAcro.jpg" width=300>
-
-Harassing the AI raptors
-<img src="/img/screenshots/HarassingAI.jpg" width=300>
-
-
-And some screenshots from the older map, Tropical_Island_1_MP
-
-Skin Contest
-<img src="/img/screenshots/SkinContest.jpg" width=300>
-
-Parasaurolophus Herd
-<img src="/img/screenshots/ParaHerd.jpg" width=300>
-
-And last.... There's a bit of story behind this.  I have a 'debug' key that I attach  scripts to whenever I'm working on Paleo Playground.  What's attached to the debug key typically pertains to whatever I happen to be working on at the time, and sometimes it's easier to press P than recreate game events to cause a certain part of the game's code to execute during ordinary gameplay.  It just so happens I was working on figuring out a good way for creatures to 'ragdoll' when they ran too fast down a hill in conjunction with our downhill speed-boost system, and forgot to remove a certain script from the P key.  The P key applies physics to the collision capsule that surrounds the dinosaur.  Raptors have a perfectly spherical collision capsule.  This is what happened when raptors pressed the P key:
-
-<iframe width="420" height="238" src="/img/screenshots/RaptorRolling.webm" frameborder="0" allowfullscreen></iframe>
-
-To see many more screenshots, I have uploaded lots of them [here](http://steamcommunity.com/id/Predatoria/screenshots/?appid=480 "Predatoria's Steam Screenshots").
 
