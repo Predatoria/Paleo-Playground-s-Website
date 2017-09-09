@@ -78,6 +78,10 @@ CanonifyUrls=true
                 order = 3
                 href = "https://discord.gg/PQ5fPNn"
                 display = "Discord"
+            [params.navigation.external.company]
+                order = 4
+                href = "http://sastreistudios.com"
+                display = "Company"
                 
 	# Hero section
 	[params.hero]

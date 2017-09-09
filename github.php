@@ -11,7 +11,7 @@
 $error_mail = "knvjones@gmail.com";
 
 // read config.json as global
-$config_filename = 'github_config.json';
+$config_filename = '/var/www/paleo/github_config.json';
 if (!file_exists($config_filename)) {
     throw new Exception("Can't find ".$config_filename);
 }

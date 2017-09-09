@@ -1,0 +1,71 @@
+# Site settings
+baseurl = "http://sastreistudios.com"
+languageCode = "en-us"
+title = "Sastrei Studios"
+theme = "hugo-smpl-theme"
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+# Enter your tracking code to enable Google analytics
+googleAnalytics = "UA-XXXXXXXX-1"
+
+[params]
+  # You can use Markdown for urls [text](//domain.tld/source)
+  #
+  # All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+  # for more icons.
+
+  # To provide more meta data for search engines feel free to add a few information.
+  # This lines will be inserted as meta tags.
+  name = "Sastrei Studios"
+  description = "A game development company that produced beasts of bermuda, an upcoming PvP dinosaur game."
+
+  # Background
+  [params.background]
+    #image = "assets/img/bg.jpg"
+    video = "https://www.youtube.com/embed/W0LHTWG-UmQ?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&playlist=W0LHTWG-UmQ"
+    # Enable and set background fade speed
+    [params.background.fade]
+      enable = true
+      speed = 500
+
+  # Logo section
+  [params.logo]
+    enable = true
+    image = "assets/logo.png"
+    alt = "sastrei studios logo"
+    width = "500"
+
+  # Header section
+  [params.header]
+    enable = true
+    title = "Developers of<br>Beasts of Bermuda"
+
+  # Quote section
+  [params.quote]
+    enable = true
+    text = "Here at Sastrei Studios we develop games. This section could be used for your personal bio. Tell me what you want it to say."
+
+  # Social icons section
+  [params.social_icons]
+    enable = true
+
+  [[params.social]]
+    title = "Discord"
+    icon = "fa-comments"
+    link = "http://dribbble.com/CarlosAlvarez"
+    
+  [[params.social]]
+    title = "Beasts of Bermuda"
+    icon = "fa-gamepad"
+    link = "http://beastsofbermuda.com"
+    
+  [[params.social]]
+    title = "Steam"
+    icon = "fa-steam"
+    link = "http://dribbble.com/CarlosAlvarez"
+
+  [[params.social]]
+    title = "Legal"
+    icon = "fa-gavel"
+    link = "http://twitter.com/BlackTie_co"
+
