@@ -22,7 +22,9 @@ googleAnalytics = "UA-XXXXXXXX-1"
   # Background
   [params.background]
     #image = "assets/img/bg.jpg"
-    video = "https://www.youtube.com/embed/W0LHTWG-UmQ?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&playlist=W0LHTWG-UmQ"
+    #video = "https://www.youtube.com/embed/W0LHTWG-UmQ?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&playlist=W0LHTWG-UmQ"
+    #video = "https://www.youtube.com/embed/2aGVxSUKnik?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&start=6&end=9"
+    video = "https://www.youtube.com/embed/Z4deMQHGdXA?controls=0&showinfo=0&rel=0&autoplay=1&loop=1&start=996&end=1096"
     # Enable and set background fade speed
     [params.background.fade]
       enable = true
@@ -43,7 +45,7 @@ googleAnalytics = "UA-XXXXXXXX-1"
   # Quote section
   [params.quote]
     enable = true
-    text = "Here at Sastrei Studios we develop games. This section could be used for your personal bio. Tell me what you want it to say."
+    text = "A small independent game development studio who has a passion for dinosaurs and PvP."
 
   # Social icons section
   [params.social_icons]
@@ -52,7 +54,7 @@ googleAnalytics = "UA-XXXXXXXX-1"
   [[params.social]]
     title = "Discord"
     icon = "fa-comments"
-    link = "http://dribbble.com/CarlosAlvarez"
+    link = "https://discord.gg/xGJznn5"
     
   [[params.social]]
     title = "Beasts of Bermuda"
@@ -62,10 +64,10 @@ googleAnalytics = "UA-XXXXXXXX-1"
   [[params.social]]
     title = "Steam"
     icon = "fa-steam"
-    link = "http://dribbble.com/CarlosAlvarez"
+    link = "#comingsoon"
 
   [[params.social]]
     title = "Legal"
     icon = "fa-gavel"
-    link = "http://twitter.com/BlackTie_co"
+    link = "#comingsoon"
 

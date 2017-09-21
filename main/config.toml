@@ -31,7 +31,9 @@ CanonifyUrls=true
     # be displayed here.
     #[params.notification]
     #    icon = "fa-steam-square"
-    #    html = "testing"
+    #    html = "<img src='BoB_Banner.png' />"
+    [params.kickstarter]
+        link = ""
 
 
 	# Navigation
@@ -83,7 +85,7 @@ CanonifyUrls=true
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Beasts of Bermuda"
-		subtitle   = " A multiplayer, open-world survival game where **you** are the dinosaur"
+		subtitle   = " A multiplayer, open-world PvP survival game where **you** are the dinosaur<br/>Coming to Steam soon. <i class='fa fa-steam-square' aria-hidden='true'></i>"
 		buttonText = "Find out more"
         #buttonLink = "#services" - changed to point to About section
 		buttonLink = "http://beastsofbermuda.com/wiki/w/Main_Page"

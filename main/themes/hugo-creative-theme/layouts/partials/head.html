@@ -6,6 +6,17 @@
 {{ .Hugo.Generator }}
 <title>{{ .Site.Title }}</title>
 
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-34848407-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-34848407-4');
+</script>
+
+
 {{ "<!-- Favicon -->" | safeHTML }}
 <link rel="shortcut icon" href="{{ .Site.Params.favicon | absURL }}">
 {{ "<!-- Bootstrap Core CSS -->" | safeHTML }}

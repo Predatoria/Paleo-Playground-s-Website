@@ -37,7 +37,7 @@
     {{ if .Site.Params.background.video }}
     <div class="video-background">
         <div class="video-foreground">
-          <iframe src="{{ .Site.Params.background.video }}" frameborder="0" allowfullscreen></iframe>
+          <iframe id="ytplayer" src="{{ .Site.Params.background.video }}&enablejsapi=1&mute=1" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
     {{ end }}
