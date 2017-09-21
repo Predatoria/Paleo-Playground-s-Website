@@ -148,6 +148,7 @@ CanonifyUrls=true
 		# phone = "123-456-6789"
         discord = "https://discord.gg/xGJznn5"
 		#email = "team@paleoplayground.com"
+        kickstarter = "https://www.kickstarter.com/projects/1596433999/beasts-of-bermuda"
         
     # The footer
     [params.footer]
