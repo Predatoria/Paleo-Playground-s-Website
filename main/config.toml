@@ -134,7 +134,7 @@ CanonifyUrls=true
 
     # Aside section
 	#[params.aside]
-	#	headline = "Follow Beast of Bermuda's Early Development!"
+	#	headline = "Follow Beast of Bermuda through Early Development!"
 #
 #		[params.aside.button]
 #			text = "Join the Community Discord"
