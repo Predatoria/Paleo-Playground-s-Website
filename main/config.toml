@@ -78,7 +78,7 @@ CanonifyUrls=true
                 display = "Wiki"
             [params.navigation.external.discord]
                 order = 3
-                href = "https://discord.gg/6EFRdAM"
+                href = "https://discord.gg/zcq5Grn"
                 display = "Discord"
                 
 	# Hero section
@@ -138,7 +138,7 @@ CanonifyUrls=true
 #
 #		[params.aside.button]
 #			text = "Join the Community Discord"
-#			link = "https://discord.gg/6EFRdAM"
+#			link = "https://discord.gg/zcq5Grn"
 #			#link = "http://steamcommunity.com/groups/PaleoPlayground"
 
 	# Contact section
