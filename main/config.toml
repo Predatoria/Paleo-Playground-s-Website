@@ -147,7 +147,7 @@ CanonifyUrls=true
 		description = "Have a question or wish to contribute to the project?"
 		# phone = "123-456-6789"
         discord = "https://discord.gg/xGJznn5"
-		#email = "team@paleoplayground.com"
+		email = "beastsofbermuda.com"
         kickstarter = "https://www.kickstarter.com/projects/1596433999/beasts-of-bermuda"
         
     # The footer
