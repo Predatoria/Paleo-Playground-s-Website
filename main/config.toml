@@ -78,7 +78,7 @@ CanonifyUrls=true
                 display = "Wiki"
             [params.navigation.external.discord]
                 order = 3
-                href = "https://discord.gg/zcq5Grn"
+                href = "https://discord.gg/PQ5fPNn"
                 display = "Discord"
                 
 	# Hero section
@@ -138,7 +138,7 @@ CanonifyUrls=true
 #
 #		[params.aside.button]
 #			text = "Join the Community Discord"
-#			link = "https://discord.gg/zcq5Grn"
+#			link = "https://discord.gg/PQ5fPNn"
 #			#link = "http://steamcommunity.com/groups/PaleoPlayground"
 
 	# Contact section
@@ -146,8 +146,8 @@ CanonifyUrls=true
 		headline = "Follow Early Development!"
 		description = "Have a question or wish to contribute to the project?"
 		# phone = "123-456-6789"
-        discord = "https://discord.gg/xGJznn5"
-		email = "beastsofbermuda.com"
+        discord = "https://discord.gg/PQ5fPNn"
+		email = "beastsofbermuda@gmail.com"
         kickstarter = "https://www.kickstarter.com/projects/1596433999/beasts-of-bermuda"
         
     # The footer
