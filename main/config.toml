@@ -78,7 +78,7 @@ CanonifyUrls=true
                 display = "Wiki"
             [params.navigation.external.discord]
                 order = 3
-                href = "https://discord.gg/PwTdBf"
+                href = "https://discord.gg/6EFRdAM"
                 display = "Discord"
                 
 	# Hero section
