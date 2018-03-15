@@ -78,14 +78,14 @@ CanonifyUrls=true
                 display = "Wiki"
             [params.navigation.external.discord]
                 order = 3
-                href = "https://discord.gg/xGJznn5"
+                href = "https://discord.gg/PQ5fPNn"
                 display = "Discord"
                 
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Beasts of Bermuda"
-		subtitle   = " A multiplayer, open-world PvP survival game where **you** are the dinosaur<br/>Coming to Steam soon. <i class='fa fa-steam-square' aria-hidden='true'></i>"
+		subtitle   = " A multiplayer, open-world PvP survival game where **you** are the dinosaur<br/>Back our Kickstarter and get **EARLY ACCESS**. <i class='fa fa-steam-square' aria-hidden='true'></i>"
 		buttonText = "Find out more"
         #buttonLink = "#services" - changed to point to About section
 		buttonLink = "http://beastsofbermuda.com/wiki/w/Main_Page"
@@ -134,11 +134,11 @@ CanonifyUrls=true
 
     # Aside section
 	#[params.aside]
-	#	headline = "Follow Beast of Bermuda's Early Development!"
+	#	headline = "Follow Beast of Bermuda through Early Development!"
 #
 #		[params.aside.button]
 #			text = "Join the Community Discord"
-#			link = "https://discord.gg/xGJznn5"
+#			link = "https://discord.gg/PQ5fPNn"
 #			#link = "http://steamcommunity.com/groups/PaleoPlayground"
 
 	# Contact section
@@ -146,8 +146,8 @@ CanonifyUrls=true
 		headline = "Follow Early Development!"
 		description = "Have a question or wish to contribute to the project?"
 		# phone = "123-456-6789"
-        discord = "https://discord.gg/xGJznn5"
-		#email = "team@paleoplayground.com"
+        discord = "https://discord.gg/PQ5fPNn"
+		email = "beastsofbermuda@gmail.com"
         kickstarter = "https://www.kickstarter.com/projects/1596433999/beasts-of-bermuda"
         
     # The footer
