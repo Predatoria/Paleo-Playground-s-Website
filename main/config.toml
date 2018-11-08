@@ -1,4 +1,4 @@
-baseurl = "http://beastsofbermuda.com/"
+baseurl = "https://beastsofbermuda.com/"
 languageCode = "en-us"
 title = "Beasts of Bermuda"
 theme = "hugo-creative-theme"
@@ -70,11 +70,11 @@ CanonifyUrls=true
         
             [params.navigation.external.blog]
                 order = 1
-                href = "http://beastsofbermuda.com/blog"
+                href = "https://beastsofbermuda.com/blog"
                 display = "Blog"
             [params.navigation.external.wiki]
                 order = 2
-                href = "http://beastsofbermuda.com/wiki/"
+                href = "https://wiki.beastsofbermuda.com/"
                 display = "Wiki"
             [params.navigation.external.discord]
                 order = 3
@@ -88,7 +88,7 @@ CanonifyUrls=true
 		subtitle   = "Hi!  Thanks for visiting our webpage.  We've been fairly quiet lately and our webpage hasn't been updated in a while.  Unfortunately, our Kickstarter last September didn't pass.  Rest assured, however, we have been working on Beasts of Bermuda since then and a lot is being done to build our game up for our Steam release!  While our webpage isn't fully up-to-date, our community Discord is much more current.  It contains most of our relevant news, new screenshots, new videos, and places to discuss our game.  All of us developers regularly post and converse here, and we're often too busy to tend to the webpage.  We encourage you to take a look if you're interested in watching us continue development on our game.  The discord link is https://discord.gg/PQ5fPNn."
 		buttonText = "View our (a bit outdated) Wiki!"
         #buttonLink = "#services" - changed to point to About section
-		buttonLink = "http://beastsofbermuda.com/wiki/w/Main_Page"
+		buttonLink = "http://wiki.beastsofbermuda.com/Main_Page"
 
 	# About section
 	#[params.about]

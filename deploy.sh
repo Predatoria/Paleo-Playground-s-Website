@@ -27,4 +27,4 @@ hugo
 ln -s /var/www/paleo/blog/public /var/www/paleo/main/public/blog
 
 # Create a symlink for the wiki
-ln -s /var/lib/mediawiki /var/www/paleo/main/public/wiki
+#DEPRECATED ln -s /var/lib/mediawiki /var/www/paleo/main/public/wiki
